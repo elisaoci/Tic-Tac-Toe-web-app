@@ -16,6 +16,7 @@
 
 ## Структура
 
+```bash
 src/
 - app.py           # точка входа
 - datasource/      # хранение данных
@@ -25,6 +26,7 @@ src/
 - static/          # CSS
 - templates/       # HTML-шаблоны
 - web/             # контроллеры
+```
 
 ## Запуск
 
